@@ -1,0 +1,24 @@
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\bin\Debug\Group_1_Huynh Xuan Guyn_9.exe.config
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\bin\Debug\Group_1_Huynh Xuan Guyn_9.exe
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\bin\Debug\Group_1_Huynh Xuan Guyn_9.pdb
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\bin\Debug\Group_1_Huynh Xuan Guyn_9.xml
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\obj\Debug\Group_1_Huynh Xuan Guyn_9.vbprojResolveAssemblyReference.cache
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\obj\Debug\Group_1_Huynh_Xuan_Guyn_9.Form1.resources
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\obj\Debug\Group_1_Huynh_Xuan_Guyn_9.Resources.resources
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\obj\Debug\Group_1_Huynh Xuan Guyn_9.vbproj.GenerateResource.Cache
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\obj\Debug\Group_1_Huynh Xuan Guyn_9.exe
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\obj\Debug\Group_1_Huynh Xuan Guyn_9.xml
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\obj\Debug\Group_1_Huynh Xuan Guyn_9.pdb
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\bin\Debug\QLVMBDataset.Designer.vb
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\bin\Debug\QLVMBDataset.vb
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\bin\Debug\QLVMBDataset.xsc
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\bin\Debug\QLVMBDataset.xsd
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\bin\Debug\QLVMBDataset.xss
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\obj\Debug\Group_1_Huynh_Xuan_Guyn_9.TimKiem.resources
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\obj\Debug\RdlCompile.cache
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\obj\Debug\RdlCompile.compiled
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\obj\Debug\Group_1_Huynh_Xuan_Guyn_9.CB.resources
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\obj\Debug\Group_1_Huynh_Xuan_Guyn_9.KH.resources
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\obj\Debug\Group_1_Huynh_Xuan_Guyn_9.TTDV.resources
+D:\Visual Studio\Wndows Form Application\Group_1_Huynh Xuan Guyn_9\Group_1_Huynh Xuan Guyn_9\obj\Debug\Group_1_Huynh_Xuan_Guyn_9.Ve.resources
